@@ -1,0 +1,31 @@
+Regression Techniques
+Predict a continuous valued output for each observation.
+– Labels are continuous (numeric), e.g., stock price, housing price
+– Can define ‘closeness’ when comparing prediction with true values
+
+Linear Regression - Lec 10
+gradient decent - lec 10
+
+Polynomial Regression - Lec 13
+Dimensionality Reduction - Lec 13 (21)
+Regularization - Lec 13
+Cross Validation - Lec 14
+
+RMSE - Lec 14
+
+
+Regression Techniques
+https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
+https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e
+
+
+Normalize -> and then do dimensionality reduction -> cross validation -> regression techniques
+Use graphs to show each line
+
+At the end, use graphs to visualize all of the lines!
+
+
+
+NOTES
+11/26/2019. - need to use Label Encoder on data, cannot have strings in the dataset!
+https://medium.com/@contactsunny/label-encoder-vs-one-hot-encoder-in-machine-learning-3fc273365621
