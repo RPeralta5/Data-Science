@@ -1,0 +1,26 @@
+Ryan Peralta
+12/10/2019
+CS 4661
+
+Final Review
+
+Lecture 1
+  DataScience - is an interdisciplinary field of research that aims to design and develop automated and semi-automated techniques to extract knowledge(info) from large-scale data and use it for future purposes such as prediction, decision making, or recommendation.
+
+Lecture 2
+  Data, Machine learning, big data manipulation and processing
+
+  Machine Learning - Designing and constructing algorithms or methods that give computers the ability to learn from past data, without being explicitly programmed, and then make predictions on future data.
+
+  Observation, features, labels, training data, testing data
+
+  Supervised Learning, Unsupervised Learning, semi-supervised learning
+
+Lecture 3
+  Classification vs Regression
+
+  KNN
+
+  Scale Features -> Value_Scaled = Value / Max(Value) -> After normalization, 0 <= Value_Scaled <= 1
+
+Lecture 4
